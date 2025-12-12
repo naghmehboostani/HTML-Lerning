@@ -1,0 +1,29 @@
+body{ color: yellowgreen;
+    background-color: bisque;
+
+} 
+h1{
+    color: rgb(74, 90, 109);
+    font-size: 20px;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+
+}
+p{
+    color: blueviolet;
+}
+div h3{
+    color: violet;
+}
+.details{
+    font-size: 10px;
+    color: lightcoral;
+}
+#email-unique-id{
+    color: cornflowerblue;
+}
+ul > li {
+    color: goldenrod;
+}
