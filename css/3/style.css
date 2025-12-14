@@ -1,0 +1,23 @@
+.card{
+    background-color:rgb(143, 178, 201) ; 
+    border: 5px solid hwb(260 10% 25% / 0.879) ;
+    border: right 5px;px;
+    border-radius: 10px;
+}
+.card h2{
+    font-size: 18px;
+}
+.card p{
+    font-size: 15px;
+}
+.card.card-green{
+    background-color: rgb(179, 210, 112);
+    border: 5px solid rgb(120, 137, 94);
+}
+.underline{
+    border-bottom: 1px solid white;
+}
+.circle{
+    border: 1px solid plum;
+    border-radius: 30%;
+}
